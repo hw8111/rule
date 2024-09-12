@@ -59,6 +59,18 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
+# pixman
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,thetvapp.to
+
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
